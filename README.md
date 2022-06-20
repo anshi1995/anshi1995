@@ -20,7 +20,7 @@
 
 - 📒 Some of my R projects published on **[RPubs](https://rpubs.com/anshitaaishwarya)**
 
-- View some of my cool **[Tableau](https://public.tableau.com/app/profile/anshita.aishwarya/) dashboards.
+- 📊 View some of my cool **[Tableau](https://public.tableau.com/app/profile/anshita.aishwarya/)** dashboards.
 
 - 📩 How to reach me **anshaish2009@gmail.com**
 
