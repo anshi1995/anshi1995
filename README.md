@@ -52,7 +52,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/anshita-aishwarya-0384b2116"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "mailto:anshaish2009@gmail.com"> <img src="https://img.icons8.com/fluency/48/undefined/email-open.png"/> </a>
+<a href = "mailto:aishwarya.a@northeatern.edu"> <img src="https://img.icons8.com/fluency/48/undefined/email-open.png"/> </a>
 <a href = "https://www.instagram.com/anshita.aishwarya/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href = "https://www.facebook.com/anshita.aishwarya/"> <img src="https://img.icons8.com/fluency/48/undefined/facebook.png"/> </a>
 
