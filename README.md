@@ -8,7 +8,7 @@
 
 - 🎓 I’m currently pursuing a Master's in Data Analytics Engineering from Northeastern University.
 
-- 🌱 I’m currently acquiring and enhancing skills on data analysis, visualization, data management, data mining and machine learning.
+- 🌱 At present, I’m acquiring and enhancing skills on data analysis, visualization, data management, data mining and machine learning.
 
 - 🔭 The data domain is vast and expanding and it's exhilarating to learn and be a small contributor in this domain.
 
