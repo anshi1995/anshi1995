@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Anshita 
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/> I'm Anshita 
 <img width="20%" height="20%" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif" /> </h1>
 <h3 align="center">I'm a data enthusiast and a keen learner.</h3>
 
