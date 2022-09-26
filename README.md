@@ -22,7 +22,7 @@
 
 - 📊 View some of my cool <a href="https://public.tableau.com/app/profile/anshita.aishwarya/" target="_blank"><strong>Tableau</strong></a> dashboards.
 
-- ⚡ Fun fact **I like play games and go to the GYM very often.**
+- ⚡ Fun fact **I like playing badminton and watching movies and tv shows.**
 
 ## 🚀 Languages and Tools:
 
@@ -32,6 +32,7 @@
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/jupyter.png"/> </a>
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/tableau-software.png"/> </a>
     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/power-bi.png"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/FA5252/amazon-web-services.png"/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-html-no-code-flaticons-flat-flat-icons-2.png"/> </a> 
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> </a> 
