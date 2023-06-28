@@ -20,7 +20,7 @@
 
 - 📖 All of my projects are available at **[GitHub](https://github.com/anshi1995)**
 
-- 📒 Some of my R projects published on <a href="https://rpubs.com/anshitaaishwarya" target="_blank"><strong>RPubs</strong></a>
+- 📒 Some of my R projects are published on <a href="https://rpubs.com/anshitaaishwarya" target="_blank"><strong>RPubs</strong></a>
 
 - 📊 View some of my cool <a href="https://public.tableau.com/app/profile/anshita.aishwarya/" target="_blank"><strong>Tableau</strong></a> dashboards.
 
