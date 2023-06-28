@@ -16,6 +16,8 @@
 
 - 📚 I’m a problem solver and like working on challenges and brushing my analytical skills.
 
+- 🙋🏻‍♀️ Visit my **[Portfolio](https://anshita-aishwarya.com)** to know more about me.
+
 - 📖 All of my projects are available at **[GitHub](https://github.com/anshi1995)**
 
 - 📒 Some of my R projects published on <a href="https://rpubs.com/anshitaaishwarya" target="_blank"><strong>RPubs</strong></a>
