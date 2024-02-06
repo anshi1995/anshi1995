@@ -6,9 +6,11 @@
 
 ## 🙋🏻‍♀️About Me
 
-- 🎓 I’m currently pursuing a Master's in Data Analytics Engineering from Northeastern University.
+- 👩🏻‍⚕️ Working as a Database Analyst III at UF Health Cancer Center
+  
+- 🎓 Completed Master's in Data Analytics Engineering from Northeastern University.
 
-- 🌱 At present, I’m acquiring and enhancing skills on data analysis, visualization, data management, data mining and machine learning.
+- 🌱 Skilled in data analysis, reporting dashboards, data management, data mining and machine learning.
 
 - 🔭 The data domain is vast and expanding and it's exhilarating to learn and be a small contributor in this domain.
 
@@ -55,7 +57,7 @@
 ## 📩 **Collaborate/Reach out to me?**
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/anshita-aishwarya-0384b2116"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+<a href = "https://www.linkedin.com/in/anshitaaishwarya"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 <a href = "mailto:aishwarya.a@northeatern.edu"> <img src="https://img.icons8.com/fluency/48/undefined/email-open.png"/> </a>
 <a href = "https://www.instagram.com/anshita.aishwarya/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 <a href = "https://www.facebook.com/anshita.aishwarya/"> <img src="https://img.icons8.com/fluency/48/undefined/facebook.png"/> </a>
