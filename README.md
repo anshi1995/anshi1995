@@ -32,7 +32,7 @@
 - **Languages**: Python, R, SQL, JavaScript
 - **BI Tools**: Power BI, Tableau
 - **Databases**: MySQL, PostgreSQL, AWS RDS
-- **Machine Learning**: Scikit-Learn, TensorFlow
+- **Machine Learning**: Scikit-Learn
 - **Project Management**: Jira, Trello
 
 <p align="left"> 
