@@ -49,6 +49,7 @@
     <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/jira.png"/> </a>
 </p>
+<p> ![Anshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshi1995&show_icons=true&theme=radical) </p>
 
 
 <br/>
