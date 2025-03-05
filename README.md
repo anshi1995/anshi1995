@@ -10,7 +10,7 @@
   
 - 🎓 Completed Master's in Data Analytics Engineering from Northeastern University.
 
-- 🌱 Skilled in data analysis, reporting dashboards, data management, data mining and machine learning.
+- 🌱 Data professional with expertise in data analysis, dashboarding (Power BI & Tableau), SQL, and machine learning.
 
 - 🔭 The data domain is vast and expanding and it's exhilarating to learn and be a small contributor in this domain.
 
@@ -28,7 +28,12 @@
 
 - ⚡ Fun fact **I like playing badminton and watching movies and tv shows.**
 
-## 🚀 Languages and Tools:
+## ⚙️ Tech Stack
+- **Languages**: Python, R, SQL, JavaScript
+- **BI Tools**: Power BI, Tableau
+- **Databases**: MySQL, PostgreSQL, AWS RDS
+- **Machine Learning**: Scikit-Learn, TensorFlow
+- **Project Management**: Jira, Trello
 
 <p align="left"> 
     <a href="https://www.rstudio.com/" target="_blank"> <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/undefined/external-r-data-science-becris-lineal-color-becris.png"/> </a>
@@ -46,11 +51,9 @@
     <a href="https://support.microsoft.com/en-us/excel" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/microsoft-excel-2019--v1.png"/> </a>  
     <a href="https://www.office.com" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/office-365.png"/> </a> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/microsoft-sharepoint-2019.png"/> </a> 
-    <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/jira.png"/> </a>
+    <a href="https://www.trello.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/trello.png"/></a>
 </p>
-<p> ![Anshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshi1995&show_icons=true&theme=radical) </p>
-
 
 <br/>
 <br/>
