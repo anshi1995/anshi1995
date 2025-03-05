@@ -31,7 +31,7 @@
 ## ⚙️ Tech Stack
 - **Languages**: Python, R, SQL, JavaScript
 - **BI Tools**: Power BI, Tableau
-- **Databases**: MySQL, PostgreSQL, AWS RDS
+- **Databases**: MySQL, MSSQL Server, Oracle SQL, PostgreSQL, AWS, Snowflake
 - **Machine Learning**: Scikit-Learn
 - **Project Management**: Jira, Trello
 
